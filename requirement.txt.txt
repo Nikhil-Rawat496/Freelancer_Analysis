@@ -3,8 +3,10 @@
 
 ## ✅ `requirements.txt`
 
-```txt
 streamlit
 pandas
 matplotlib
 seaborn
+
+```txt
+
